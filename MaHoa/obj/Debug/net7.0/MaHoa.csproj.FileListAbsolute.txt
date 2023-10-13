@@ -1,0 +1,14 @@
+D:\ASP.net\MaHoa\bin\Debug\net7.0\MaHoa.exe
+D:\ASP.net\MaHoa\bin\Debug\net7.0\MaHoa.deps.json
+D:\ASP.net\MaHoa\bin\Debug\net7.0\MaHoa.runtimeconfig.json
+D:\ASP.net\MaHoa\bin\Debug\net7.0\MaHoa.dll
+D:\ASP.net\MaHoa\bin\Debug\net7.0\MaHoa.pdb
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.AssemblyInfoInputs.cache
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.AssemblyInfo.cs
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.csproj.CoreCompileInputs.cache
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.dll
+D:\ASP.net\MaHoa\obj\Debug\net7.0\refint\MaHoa.dll
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.pdb
+D:\ASP.net\MaHoa\obj\Debug\net7.0\MaHoa.genruntimeconfig.cache
+D:\ASP.net\MaHoa\obj\Debug\net7.0\ref\MaHoa.dll
