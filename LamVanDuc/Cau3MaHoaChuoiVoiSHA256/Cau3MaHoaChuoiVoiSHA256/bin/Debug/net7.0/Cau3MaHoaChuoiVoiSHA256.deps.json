@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cau3MaHoaChuoiVoiSHA256/1.0.0": {
+        "runtime": {
+          "Cau3MaHoaChuoiVoiSHA256.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau3MaHoaChuoiVoiSHA256/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\bin\Debug\net7.0\GiaiMaBatDoiXung.exe
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\bin\Debug\net7.0\GiaiMaBatDoiXung.deps.json
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\bin\Debug\net7.0\GiaiMaBatDoiXung.runtimeconfig.json
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\bin\Debug\net7.0\GiaiMaBatDoiXung.dll
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\bin\Debug\net7.0\GiaiMaBatDoiXung.pdb
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.AssemblyInfoInputs.cache
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.AssemblyInfo.cs
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.csproj.CoreCompileInputs.cache
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.dll
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\refint\GiaiMaBatDoiXung.dll
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.pdb
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\GiaiMaBatDoiXung.genruntimeconfig.cache
+D:\T2207E\NSC\git\SEM3_T2207E_NSC_Test\LamVanDuc\GiaiMaBatDoiXung\GiaiMaBatDoiXung\obj\Debug\net7.0\ref\GiaiMaBatDoiXung.dll
