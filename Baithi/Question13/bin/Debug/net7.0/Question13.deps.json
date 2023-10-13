@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Question13/1.0.0": {
+        "dependencies": {
+          "CDFC.Hasher": "0.1.0.1"
+        },
+        "runtime": {
+          "Question13.dll": {}
+        }
+      },
+      "CDFC.Common/0.1.1.2": {
+        "dependencies": {
+          "System.ValueTuple": "4.4.0"
+        },
+        "runtime": {
+          "lib/NET451/CDFC.Util.dll": {
+            "assemblyVersion": "0.1.0.3",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/NET451/CDFCCultures.dll": {
+            "assemblyVersion": "0.1.0.3",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/NET451/CDFCUIContracts.dll": {
+            "assemblyVersion": "0.1.0.3",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/NET451/EventLogger.dll": {
+            "assemblyVersion": "0.1.0.3",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CDFC.Hasher/0.1.0.1": {
+        "dependencies": {
+          "CDFC.Common": "0.1.1.2"
+        },
+        "runtime": {
+          "lib/NET451/CDFC.Hasher.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.ValueTuple/4.4.0": {}
+    }
+  },
+  "libraries": {
+    "Question13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CDFC.Common/0.1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zpsUkgIS9c5halouHpFFV7eVBoPJJ4ELZPnJfZUCJTRSD2PXAeRM2N6jeJvbQj3ZxP7cDcD6LU6tXrB1Sy3Dhw==",
+      "path": "cdfc.common/0.1.1.2",
+      "hashPath": "cdfc.common.0.1.1.2.nupkg.sha512"
+    },
+    "CDFC.Hasher/0.1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kwlPnSwRPCgwaTcVkb9pcITchVEmReYuO+qMi91ScxjimpDHtH9GGv7kJDHB9usrziDO5YxGU6SkvF7B5sre7g==",
+      "path": "cdfc.hasher/0.1.0.1",
+      "hashPath": "cdfc.hasher.0.1.0.1.nupkg.sha512"
+    },
+    "System.ValueTuple/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
+      "path": "system.valuetuple/4.4.0",
+      "hashPath": "system.valuetuple.4.4.0.nupkg.sha512"
+    }
+  }
+}

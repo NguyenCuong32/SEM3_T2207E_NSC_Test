@@ -1,0 +1,216 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CDFC.Common/0.1.1.2": {
+        "type": "package",
+        "dependencies": {
+          "System.ValueTuple": "4.4.0"
+        },
+        "compile": {
+          "lib/NET451/CDFC.Util.dll": {},
+          "lib/NET451/CDFCCultures.dll": {},
+          "lib/NET451/CDFCUIContracts.dll": {},
+          "lib/NET451/EventLogger.dll": {}
+        },
+        "runtime": {
+          "lib/NET451/CDFC.Util.dll": {},
+          "lib/NET451/CDFCCultures.dll": {},
+          "lib/NET451/CDFCUIContracts.dll": {},
+          "lib/NET451/EventLogger.dll": {}
+        }
+      },
+      "CDFC.Hasher/0.1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "CDFC.Common": "0.1.1.2"
+        },
+        "compile": {
+          "lib/NET451/CDFC.Hasher.dll": {}
+        },
+        "runtime": {
+          "lib/NET451/CDFC.Hasher.dll": {}
+        }
+      },
+      "System.ValueTuple/4.4.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CDFC.Common/0.1.1.2": {
+      "sha512": "zpsUkgIS9c5halouHpFFV7eVBoPJJ4ELZPnJfZUCJTRSD2PXAeRM2N6jeJvbQj3ZxP7cDcD6LU6tXrB1Sy3Dhw==",
+      "type": "package",
+      "path": "cdfc.common/0.1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cdfc.common.0.1.1.2.nupkg.sha512",
+        "cdfc.common.nuspec",
+        "lib/NET451/CDFC.Util.dll",
+        "lib/NET451/CDFCCultures.dll",
+        "lib/NET451/CDFCUIContracts.dll",
+        "lib/NET451/EventLogger.dll"
+      ]
+    },
+    "CDFC.Hasher/0.1.0.1": {
+      "sha512": "kwlPnSwRPCgwaTcVkb9pcITchVEmReYuO+qMi91ScxjimpDHtH9GGv7kJDHB9usrziDO5YxGU6SkvF7B5sre7g==",
+      "type": "package",
+      "path": "cdfc.hasher/0.1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cdfc.hasher.0.1.0.1.nupkg.sha512",
+        "cdfc.hasher.nuspec",
+        "lib/NET451/CDFC.Hasher.dll"
+      ]
+    },
+    "System.ValueTuple/4.4.0": {
+      "sha512": "BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
+      "type": "package",
+      "path": "system.valuetuple/4.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.ValueTuple.dll",
+        "lib/net461/System.ValueTuple.xml",
+        "lib/net47/System.ValueTuple.dll",
+        "lib/net47/System.ValueTuple.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.ValueTuple.dll",
+        "lib/netstandard1.0/System.ValueTuple.xml",
+        "lib/netstandard2.0/_._",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.ValueTuple.dll",
+        "ref/net461/System.ValueTuple.xml",
+        "ref/net47/System.ValueTuple.dll",
+        "ref/net47/System.ValueTuple.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard2.0/_._",
+        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.valuetuple.4.4.0.nupkg.sha512",
+        "system.valuetuple.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CDFC.Hasher >= 0.1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FPT phan mem\\T2207E\\SercurityNetwork\\Question13\\Question13.csproj",
+      "projectName": "Question13",
+      "projectPath": "D:\\FPT phan mem\\T2207E\\SercurityNetwork\\Question13\\Question13.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT phan mem\\T2207E\\SercurityNetwork\\Question13\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "CDFC.Hasher": {
+            "target": "Package",
+            "version": "[0.1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CDFC.Common 0.1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CDFC.Common",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CDFC.Hasher 0.1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CDFC.Hasher",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
