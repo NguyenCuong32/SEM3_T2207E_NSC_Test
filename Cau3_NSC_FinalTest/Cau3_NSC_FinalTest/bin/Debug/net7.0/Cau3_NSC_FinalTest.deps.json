@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cau3_NSC_FinalTest/1.0.0": {
+        "runtime": {
+          "Cau3_NSC_FinalTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau3_NSC_FinalTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

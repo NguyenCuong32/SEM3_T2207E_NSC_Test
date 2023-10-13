@@ -1,0 +1,15 @@
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\bin\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.exe
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\bin\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.deps.json
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\bin\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.runtimeconfig.json
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\bin\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.dll
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\bin\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.pdb
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.csproj.AssemblyReference.cache
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.AssemblyInfoInputs.cache
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.AssemblyInfo.cs
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.csproj.CoreCompileInputs.cache
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.dll
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\refint\MaHoaVaGiaiMaBatDoiXung.dll
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.pdb
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\MaHoaVaGiaiMaBatDoiXung.genruntimeconfig.cache
+C:\Demo\SEM3_T2207E_NSC_Test\MaHoaVaGiaiMaBatDoiXung\MaHoaVaGiaiMaBatDoiXung\obj\Debug\net7.0\ref\MaHoaVaGiaiMaBatDoiXung.dll
