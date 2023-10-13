@@ -1,0 +1,6 @@
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/bin/Debug/BaiThi.exe
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/bin/Debug/BaiThi.pdb
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/obj/Debug/BaiThi.csproj.AssemblyReference.cache
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/obj/Debug/BaiThi.csproj.CoreCompileInputs.cache
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/obj/Debug/BaiThi.exe
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/BaiThi/BaiThi/obj/Debug/BaiThi.pdb

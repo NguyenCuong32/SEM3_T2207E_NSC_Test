@@ -1,0 +1,6 @@
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/bin/Debug/Cau1._4.exe
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/bin/Debug/Cau1._4.pdb
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/obj/Debug/Cau1.4.csproj.AssemblyReference.cache
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/obj/Debug/Cau1.4.csproj.CoreCompileInputs.cache
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/obj/Debug/Cau1._4.exe
+/Users/nguyenquangthanh/NSC/SEM3_T2207E_NSC_Test/Cau1.4/Cau1.4/obj/Debug/Cau1._4.pdb
