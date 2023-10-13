@@ -1,0 +1,15 @@
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\bin\Debug\net6.0\NSC.exe
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\bin\Debug\net6.0\NSC.deps.json
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\bin\Debug\net6.0\NSC.runtimeconfig.json
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\bin\Debug\net6.0\NSC.dll
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\bin\Debug\net6.0\NSC.pdb
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.csproj.AssemblyReference.cache
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.AssemblyInfoInputs.cache
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.AssemblyInfo.cs
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.csproj.CoreCompileInputs.cache
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.dll
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\refint\NSC.dll
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.pdb
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\NSC.genruntimeconfig.cache
+F:\SEM3_T2207E_WDA_Test\NSC\NSC\obj\Debug\net6.0\ref\NSC.dll
