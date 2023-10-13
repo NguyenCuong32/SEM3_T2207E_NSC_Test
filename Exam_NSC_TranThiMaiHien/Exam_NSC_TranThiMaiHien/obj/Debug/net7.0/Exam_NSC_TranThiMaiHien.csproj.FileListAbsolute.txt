@@ -1,0 +1,15 @@
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.csproj.AssemblyReference.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.AssemblyInfoInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.AssemblyInfo.cs
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.csproj.CoreCompileInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/bin/Debug/net7.0/Exam_NSC_TranThiMaiHien
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/bin/Debug/net7.0/Exam_NSC_TranThiMaiHien.deps.json
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/bin/Debug/net7.0/Exam_NSC_TranThiMaiHien.runtimeconfig.json
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/bin/Debug/net7.0/Exam_NSC_TranThiMaiHien.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/bin/Debug/net7.0/Exam_NSC_TranThiMaiHien.pdb
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/refint/Exam_NSC_TranThiMaiHien.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.pdb
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/Exam_NSC_TranThiMaiHien.genruntimeconfig.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/Exam_NSC_TranThiMaiHien/Exam_NSC_TranThiMaiHien/obj/Debug/net7.0/ref/Exam_NSC_TranThiMaiHien.dll
