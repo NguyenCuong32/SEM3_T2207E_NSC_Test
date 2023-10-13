@@ -1,0 +1,16 @@
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\bin\Debug\RSAExample.exe.config
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\bin\Debug\RSAExample.exe
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\bin\Debug\RSAExample.pdb
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\obj\Debug\RSAExample.csproj.AssemblyReference.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\obj\Debug\RSAExample.csproj.SuggestedBindingRedirects.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\obj\Debug\RSAExample.csproj.CoreCompileInputs.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\obj\Debug\RSAExample.exe
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\RSAExample\obj\Debug\RSAExample.pdb
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\bin\Debug\RSAExample.exe.config
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\bin\Debug\RSAExample.exe
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\bin\Debug\RSAExample.pdb
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\obj\Debug\RSAExample.csproj.AssemblyReference.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\obj\Debug\RSAExample.csproj.SuggestedBindingRedirects.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\obj\Debug\RSAExample.csproj.CoreCompileInputs.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\obj\Debug\RSAExample.exe
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\RSAExample\obj\Debug\RSAExample.pdb

@@ -1,0 +1,16 @@
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\bin\Debug\AESExample.exe.config
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\bin\Debug\AESExample.exe
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\bin\Debug\AESExample.pdb
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\obj\Debug\AESExample.csproj.AssemblyReference.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\obj\Debug\AESExample.csproj.SuggestedBindingRedirects.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\obj\Debug\AESExample.csproj.CoreCompileInputs.cache
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\obj\Debug\AESExample.exe
+D:\Quy\Aptech\Semester3\ASP.NET\Exercises\AESExample\obj\Debug\AESExample.pdb
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\bin\Debug\AESExample.exe.config
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\bin\Debug\AESExample.exe
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\bin\Debug\AESExample.pdb
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\obj\Debug\AESExample.csproj.AssemblyReference.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\obj\Debug\AESExample.csproj.SuggestedBindingRedirects.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\obj\Debug\AESExample.csproj.CoreCompileInputs.cache
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\obj\Debug\AESExample.exe
+D:\Quy\Aptech\Semester3\NSC\Exam\SEM3_T2207E_NSC_Test\AESExample\obj\Debug\AESExample.pdb
