@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{A188F19F-6D99-4FEB-B09F-189E3BF14608}|Default">
-  <MonoDevelop.Ide.ItemProperties.Exam__NSC__TranThiMaiHien FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exam_NSC_TranThiMaiHien/Program.cs">
+    <Files>
+      <File FileName="Exam_NSC_TranThiMaiHien/Program.cs" Line="14" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam_NSC_TranThiMaiHien" expanded="True">
+            <Node name="Exam_NSC_TranThiMaiHien" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exam__NSC__TranThiMaiHien PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

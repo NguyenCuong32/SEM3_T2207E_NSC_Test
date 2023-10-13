@@ -1,0 +1,15 @@
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/bin/Debug/net7.0/SHA
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/bin/Debug/net7.0/SHA.deps.json
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/bin/Debug/net7.0/SHA.runtimeconfig.json
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/bin/Debug/net7.0/SHA.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/bin/Debug/net7.0/SHA.pdb
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.csproj.AssemblyReference.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.AssemblyInfoInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.AssemblyInfo.cs
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.csproj.CoreCompileInputs.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/refint/SHA.dll
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.pdb
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/SHA.genruntimeconfig.cache
+/Users/tranthimaihien/Documents/fpt/SEM3/SEM3_T2207E_NSC_Test/SHA/SHA/obj/Debug/net7.0/ref/SHA.dll
