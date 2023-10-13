@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\bin\Debug\net6.0\Question1_1.4.exe
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\bin\Debug\net6.0\Question1_1.4.deps.json
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\bin\Debug\net6.0\Question1_1.4.runtimeconfig.json
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\bin\Debug\net6.0\Question1_1.4.dll
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\bin\Debug\net6.0\Question1_1.4.pdb
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.dll
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\refint\Question1_1.4.dll
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.pdb
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\Question1_1.4.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\FPT\Question1_1.4\obj\Debug\net6.0\ref\Question1_1.4.dll
