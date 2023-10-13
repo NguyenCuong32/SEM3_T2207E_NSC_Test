@@ -1,0 +1,14 @@
+D:\SEM3_T2207E_NSC_Test\Question1.4\bin\Debug\net7.0\Question1.4.exe
+D:\SEM3_T2207E_NSC_Test\Question1.4\bin\Debug\net7.0\Question1.4.deps.json
+D:\SEM3_T2207E_NSC_Test\Question1.4\bin\Debug\net7.0\Question1.4.runtimeconfig.json
+D:\SEM3_T2207E_NSC_Test\Question1.4\bin\Debug\net7.0\Question1.4.dll
+D:\SEM3_T2207E_NSC_Test\Question1.4\bin\Debug\net7.0\Question1.4.pdb
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.AssemblyInfoInputs.cache
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.AssemblyInfo.cs
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.csproj.CoreCompileInputs.cache
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.dll
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\refint\Question1.4.dll
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.pdb
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\Question1.4.genruntimeconfig.cache
+D:\SEM3_T2207E_NSC_Test\Question1.4\obj\Debug\net7.0\ref\Question1.4.dll
