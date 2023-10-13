@@ -1,0 +1,15 @@
+D:\WebMVC\BT3\BT3\bin\Debug\net7.0\BT3.exe
+D:\WebMVC\BT3\BT3\bin\Debug\net7.0\BT3.deps.json
+D:\WebMVC\BT3\BT3\bin\Debug\net7.0\BT3.runtimeconfig.json
+D:\WebMVC\BT3\BT3\bin\Debug\net7.0\BT3.dll
+D:\WebMVC\BT3\BT3\bin\Debug\net7.0\BT3.pdb
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.csproj.AssemblyReference.cache
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.AssemblyInfoInputs.cache
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.AssemblyInfo.cs
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.csproj.CoreCompileInputs.cache
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.dll
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\refint\BT3.dll
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.pdb
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\BT3.genruntimeconfig.cache
+D:\WebMVC\BT3\BT3\obj\Debug\net7.0\ref\BT3.dll

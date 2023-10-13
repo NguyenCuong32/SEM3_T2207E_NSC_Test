@@ -1,0 +1,14 @@
+1.1	Asymmetric Encryption: Asymmetric encryption, also known as public-key cryptography, uses a pair of keys: a public key and a private key. The public key is used for encryption, and the private key is used for decryption. It is a key exchange mechanism and provides a secure way for parties to communicate without sharing a secret key. Common asymmetric encryption algorithms include RSA and ECC (Elliptic Curve Cryptography).
+Symmetric Encryption: Symmetric encryption, on the other hand, uses a single secret key for both encryption and decryption. This key is shared between the communicating parties. Symmetric encryption is typically faster and more efficient than asymmetric encryption but requires a secure method for sharing the secret key. Common symmetric encryption algorithms include AES (Advanced Encryption Standard) and DES (Data Encryption Standard).
+
+1.3 Comparison between Asymmetric and Symmetric Encryption:
+•	Key Management:
+•	Asymmetric: Involves a pair of public and private keys. The public key is distributed freely, while the private key must be kept secret.
+•	Symmetric: Uses a single shared secret key. Key distribution can be challenging.
+•	Speed:
+•	Asymmetric: Slower compared to symmetric encryption due to complex mathematical operations.
+•	Symmetric: Faster and more efficient as it uses a single key for encryption and decryption.
+•	Security:
+•	Asymmetric: Offers secure key exchange and is suitable for securely transmitting symmetric keys.
+•	Symmetric: Vulnerable to key distribution issues, but it's faster.
+

@@ -1,0 +1,15 @@
+D:\WebMVC\BT1\BT1\bin\Debug\net7.0\BT1.exe
+D:\WebMVC\BT1\BT1\bin\Debug\net7.0\BT1.deps.json
+D:\WebMVC\BT1\BT1\bin\Debug\net7.0\BT1.runtimeconfig.json
+D:\WebMVC\BT1\BT1\bin\Debug\net7.0\BT1.dll
+D:\WebMVC\BT1\BT1\bin\Debug\net7.0\BT1.pdb
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.csproj.AssemblyReference.cache
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.AssemblyInfoInputs.cache
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.AssemblyInfo.cs
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.csproj.CoreCompileInputs.cache
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.dll
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\refint\BT1.dll
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.pdb
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\BT1.genruntimeconfig.cache
+D:\WebMVC\BT1\BT1\obj\Debug\net7.0\ref\BT1.dll
