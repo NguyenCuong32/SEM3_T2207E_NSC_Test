@@ -12,6 +12,7 @@ class Program
             // Văn bản cần mã hoá
             string originalText;
             Console.WriteLine("Vui lòng nhập mật khẩu: ");
+            
             originalText = Console.ReadLine();
 
             // Mã hoá văn bản bằng khóa công khai
@@ -21,7 +22,7 @@ class Program
 
             string decryptedText = Decrypt(encryptedText, rsa.ExportParameters(true));
 
-            Console.WriteLine("Văn bản ban đầu: " + decryptedText);
+            Console.WriteLine("Văn bản sau khi giải : " + decryptedText);
         }
     }
 

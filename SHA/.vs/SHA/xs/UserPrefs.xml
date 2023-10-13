@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{9409A4FA-8305-4D4F-81BE-1512E7F4206F}|Default">
-  <MonoDevelop.Ide.ItemProperties.SHA FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SHA/Program.cs">
+    <Files>
+      <File FileName="SHA/Program.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SHA" expanded="True">
+            <Node name="SHA">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SHA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
